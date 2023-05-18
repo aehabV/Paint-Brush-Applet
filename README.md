@@ -2,7 +2,7 @@
 
 [![Language Badge](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.java.com/)
 [![Platform Badge](https://img.shields.io/badge/Platform-Applet-green.svg)](https://docs.oracle.com/javase/tutorial/deployment/applet/)
-[![License Badge](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-0a2c46.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 Paint Brush is an Applet-based application that enables the user to draw basic shapes with different colors and line strokes. The user can also clear all of the drawings or erase some parts of them. This project demonstrates the use of OOP design and implementation.
 
