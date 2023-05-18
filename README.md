@@ -1,6 +1,6 @@
 # Paint Brush Project Specifications
 
-[![Language Badge](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.java.com/)
+[![Language Badge](https://img.shields.io/badge/Language-Java-007396.svg)](https://www.java.com/)
 [![Platform Badge](https://img.shields.io/badge/Platform-Applet-green.svg)](https://docs.oracle.com/javase/tutorial/deployment/applet/)
 [![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-0a2c46.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
